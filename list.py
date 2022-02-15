@@ -3,3 +3,4 @@ squares = []
 for i in new_list:
     squares.append(i**2)
     
+print(squares)
